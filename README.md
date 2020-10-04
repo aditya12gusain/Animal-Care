@@ -12,3 +12,4 @@
 - It also include option of donate those who want to donate as a volunteer or animal lover can donate anything they want to.
 - For any queries you can contact us by going through the contact section or can also search your queries by choosing queries option the home page.
 - Chat bot will help you to do live chat with the doctor or can ask any query if you want too.
+-Also help the people who want to open animal community in future.
